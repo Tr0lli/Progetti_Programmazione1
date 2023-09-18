@@ -61,7 +61,7 @@ public class Esercizio8_2 {
         } */
         Metodi8_2.stampaMondo(mondo);
         if (risultatoPercorso==1){
-            System.out.println("HAI VINTO PORCO DIOOOOOOOOOOOOO");
+            System.out.println("HAI VINTO");
         } else {
             System.out.println("HAI PERSO COGLIONE ");
         }
