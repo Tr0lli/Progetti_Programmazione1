@@ -1,4 +1,4 @@
-# Progetti_Programmazione1
+# Progetti del corso di Programmazione 1 e 2
 
 Ogni Esercizio è associato al Metodi con lo stesso numero
 
