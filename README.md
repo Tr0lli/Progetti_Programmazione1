@@ -1,6 +1,6 @@
 # Progetti del corso di Programmazione 1 e 2
 
-Ogni Esercizio è associato al Metodi con lo stesso numero
+Ogni Esercizio nelle cartelle Laboratorio è associato al Metodi con lo stesso numero
 
 Esercizio8_6 e Metodi8_6 compongono il gioco del Tris contro il computer
 
